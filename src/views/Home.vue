@@ -1,6 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <div class="container">
+      <img alt="Vue logo" width="500px" src="http://jogja-training.com/wp-content/uploads/2017/11/Pelatihan-Mengelola-Quality-Control-Circle-QCC-di-Industri-Manufaktur-800x445.jpg">
+      <h1>Quality Control Circle Convention Karawang TMMIN Plant#3 Randomizer</h1>
+    </div>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
